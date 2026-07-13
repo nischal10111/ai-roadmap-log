@@ -1,5 +1,5 @@
 name = input("What is your name?")
 age = input("What is your age?")
 print("Hello",name,",in five years you'll be", int(age) + 5)
-print(type(Nischal))
-print(age(17))
+print(type(name))
+print(age(age))
